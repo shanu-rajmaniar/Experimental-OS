@@ -1,0 +1,3 @@
+print [SYSTEM_STATUS_TABLE + 1];
+print "Haltint";
+halt;
